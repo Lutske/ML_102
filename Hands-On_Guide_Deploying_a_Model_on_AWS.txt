@@ -4,7 +4,8 @@ Total Duration: 15 minutes
 1. Preparations 
 Ensure Access: Confirm that you have access to the AWS Console
 
-Provide Resources: Distribute a pre-trained model and sample data. This could be a simple machine learning model such as a pre-trained image classification or regression model.
+Provide Resources: 
+You can use this model https://www.kaggle.com/models/nakulkamath/pokemon-gen-1-recognition for recognize gen 1 pokemons or select another model from kaggle/AWS. This could be a simple machine learning model such as a pre-trained image classification or regression model.
 
 2. Create an Amazon S3 Bucket 
 Step 1: Log in to the AWS Management Console.
